@@ -1,0 +1,26 @@
+{
+  "tabName": "Project: {0}",
+  "importProjectVersion": "Import Project version",
+  "createNewProject": "Create New Project",
+  "projectInfoDetail": "Project info",
+  "projectInfoDetailBtn": "Info",
+  "projectInfoEdit": "Edit project info",
+  "projectInfoDelConfirm": "Sure to del project: {name}",
+  "projectInfoDeleted": "Project deleted: {name}",
+  "projectInfoCreated": "Project created: {0}",
+  "projectInfoNotFound": "Project NOT FOUND: {0}",
+  "projectInfo": {
+    "name": "Name",
+    "description": "Description",
+    "isDev": "Is DEV",
+    "tags": "Tags"
+  },
+  "tabs": {
+    "empty": "Empty",
+    "info": "Base info",
+    "template": "Template",
+    "category": "Category",
+    "resources": "Resources",
+    "tests": "Test cases"
+  }
+}

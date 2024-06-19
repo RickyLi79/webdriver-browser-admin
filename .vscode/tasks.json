@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"problemMatcher": "$vite",
+			"isBackground": true,
+			"label": "npm: dev",
+			"detail": "pnpm vite"
+		}
+	]
+}
